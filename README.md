@@ -1,2 +1,1 @@
-# Stick-with-It
-Hardest game ever?
+# Stick with It
